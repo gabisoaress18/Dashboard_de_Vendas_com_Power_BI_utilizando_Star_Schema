@@ -7,4 +7,4 @@
  <h1 align="center"> Dashboard de Vendas com Power BI utilizando Star Schema </h1>
 
  - **Descrição:** Criar o diagrama dimensional – star schema – com base no diagrama relacional disponibilizado.
- - ![Captura de Tela](https://github.com/gabisoaress18/Dashboard_de_Vendas_com_Power_BI_utilizando_Star_Schema/blob/0dcd8de8700557a13ead3075bb20d94aecd2cb70/SchemaEstrela.png)
+   ![Captura de Tela](https://github.com/gabisoaress18/Dashboard_de_Vendas_com_Power_BI_utilizando_Star_Schema/blob/0dcd8de8700557a13ead3075bb20d94aecd2cb70/SchemaEstrela.png)
